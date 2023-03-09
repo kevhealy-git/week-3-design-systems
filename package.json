@@ -1,7 +1,10 @@
 {
   "name": "week-3-design-systems",
+  "description": "Test publishing design system for Dribbble class",
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
